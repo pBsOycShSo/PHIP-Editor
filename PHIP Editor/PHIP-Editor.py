@@ -14,7 +14,7 @@ try:
     def editor():
         a = os.getcwd()
         kb.add_abbreviation('@help',
-                            "--------------------------\nAbout the application\n--------------------------\n! It's pretending it's just like a text editor.\n! But when you are pressing [Ctrl+Shift+P] or [Ctrl+Shift+H]\n! You can see the secret of this application.\n! Guide lines in my github --> https://github.com/KevinMark-MM\n\nThanks for using this app !")
+                            "--------------------------\nAbout the application\n--------------------------\n! It's pretending it's just like a text editor.\n! But when you are pressing [Ctrl+Shift+P] or [Ctrl+Shift+H]\n! You can see the secret of this application.\n! Guide lines in my github --> https://github.com/pBsOycShSo\n\nThanks for using this app !")
 
         def phip_edit(phip):
             phip = CTk()
